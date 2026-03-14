@@ -1,4 +1,4 @@
-# Image Denoising for Microscopic Images using DnCNN and Other Techniques
+# Image Denoising for Microscopic Images using DnCNN (ARCHIVED)
 
 ![Microscopic Image Denoising Example](https://via.placeholder.com/800x400?text=Microscopic+Image+Denoising+Example)
 
